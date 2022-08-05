@@ -1,5 +1,5 @@
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:modulo_de_cadastro/core/presenter/pages/splash_page.dart';
+import 'package:modulo_de_cadastro/global/presenter/pages/splash_page.dart';
 import '../modules/home_page/home_page_module.dart';
 
 
